@@ -5,3 +5,7 @@ A. Right now!
 Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A. If others commit and push updates, they might collapse with my version of tip. Better to know what to pull before it happens! 
+
+Q. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A. Branch is creating new 분기점 of the repository. If you make a branch, then you will have parallel version of data points until you merge different branches together. Clone is copying the repository into another repository including git data (commit log and branches). Fork is clone in github server. You create branch when you'd like to test new things in your code or work with others. Clone is to be used when you simply copy and paste other repositories into your local area. Forks, if you are going to make a copy of other repositories in github to your account in gihub, is useful. 
