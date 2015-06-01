@@ -1,3 +1,7 @@
 Q. When would you want to use a remote repository rather than keeping all your work local?
 
 A. Right now! 
+
+Q. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A. If others commit and push updates, they might collapse with my version of tip. Better to know what to pull before it happens! 
